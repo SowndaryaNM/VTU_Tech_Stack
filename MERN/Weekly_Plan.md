@@ -249,20 +249,3 @@ Students can **embed AI features into MERN applications**.
 
 ---
 
-# ✅ Short Synopsis
-
-A full-stack MERN application that automates candidate screening using AI. Users upload resumes, the system extracts skills using NLP, matches them against job descriptions, ranks candidates, and provides analytics dashboards for recruiters. Includes authentication, role-based access, real-time updates, and cloud deployment. Designed to mirror enterprise hiring platforms with modern engineering standards.
-
----
-
-If you want, I can next help you with:
-
-* Sprint-wise task sheets
-* Daily lab exercises
-* Evaluation rubrics
-* Assessment checkpoints
-* Architecture diagram
-* GitHub repo folder structure
-* Deployment playbook
-
-Just say which artifact you want first.
