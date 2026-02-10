@@ -1,9 +1,3 @@
-Here’s a **straightforward, execution-focused 14-week internship roadmap** designed the way real engineering teams operate — sprint-based, deliverable-driven, and aligned with **modern MERN + AI + production engineering standards**.
-
-No academic fluff. Every week produces a tangible artifact. By the end, they should have something deployable, not just “learning completed.”
-
----
-
 # ✅ 14-Week MERN Stack + AI Capstone Internship Plan
 
 ---
